@@ -1,6 +1,6 @@
 # Diabetes Risk Prediction with MLPs
 
-**Author:** Adel Ahmed Fathi Amer (ID 224100177)
+**Author:** Adel Ahmed Fathi Amer 
 
 Predicts a diabetes diagnosis (`diagnosed_diabetes`) with **multi-layer perceptrons only**, using the Kaggle dataset
 [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
